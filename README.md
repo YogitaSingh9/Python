@@ -1,2 +1,2 @@
 # Python-30days
-celebrating 30 days of coding in python
+BRUSHING UP MY CODING SKILLS BY CODING FOR 30 DAYS IN A ROW
