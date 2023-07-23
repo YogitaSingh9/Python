@@ -18,4 +18,4 @@ Python's rich set of operators are categorized as:
 6. Identity Operator
 
 The if-else Statements
-the idf statement executes a single statement-block, when the specified condition is true, and when the condition is false then else statement will get executed.
+the if statement executes a single statement-block, when the specified condition is true, and when the condition is false then else statement will get executed.
